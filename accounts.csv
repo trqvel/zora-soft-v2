@@ -1,2 +1,2 @@
 address,private_key,proxy,bridge,mint
-0x580e5221b9dc864b53d1c91bf661c456065ff10f,fb644428b4d0cbdd95c97fe7a88bb2e8536c89f59077da0dd95730cc0444537e,http://GunQCgbt:W6HYifnx@154.194.99.189:63110,True,True
+address,private_key,http://GunQCgbt:W6HYifnx@154.194.99.189:63110,True,True
