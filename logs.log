@@ -1,0 +1,6 @@
+[2023-11-02 02:45:00,447] [INFO] -> [bridge] Bridge! Bridge! Bridge!
+[2023-11-02 02:45:13,919] [ERROR] -> [bridge] 0x580e...f10f | HTTPSConnectionPool(host='eth.llamarpc.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027F444E65D0>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)")))
+[2023-11-02 02:45:13,919] [INFO] -> [bridge] All wallets bridged.
+[2023-11-02 02:45:15,296] [INFO] -> [mint] Mint! Mint! Mint!
+[2023-11-02 02:45:28,775] [ERROR] -> [mint] 0x580e...f10f | HTTPSConnectionPool(host='rpc.zora.energy', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027F492F87D0>: Failed to resolve 'http' ([Errno 11001] getaddrinfo failed)")))
+[2023-11-02 02:45:28,776] [INFO] -> [mint] All wallets minted.
